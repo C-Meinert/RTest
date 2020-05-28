@@ -31,3 +31,5 @@ print(result)
 
 result <- f_Add(5)
 print(result)
+
+print(seq(0:69))
